@@ -1,3 +1,10 @@
+# Добавь эти импорты в начало bot.py
+from app import flask_thread
+import time
+
+# Даем время Flask запуститься
+time.sleep(2)
+
 import os
 import logging
 from telegram import Update, ReplyKeyboardMarkup, ReplyKeyboardRemove
