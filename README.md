@@ -1,7 +1,8 @@
 # 🎯 AIQYN LEARN - Персональный ИИ-учитель нового поколения
 
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/aiqynlearnaibot)
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 🌟 **ИИ-учитель, который обучает не лекциями, а как игра — персонально, интересно и в твоём стиле.**
 
