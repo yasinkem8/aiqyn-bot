@@ -1,1 +1,4 @@
+runtime = "python-3.11"
 
+with open('runtime.txt', 'w') as f:
+    f.write(runtime)
